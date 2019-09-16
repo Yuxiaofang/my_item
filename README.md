@@ -7,10 +7,6 @@
 ### 一些业务展示图
 ![项目截图](https://raw.githubusercontent.com/shaoshanhuan/kl_jxc/master/_docs/video_2019-09-16_164641%5B00_00_06--00_00_26%5D.gif)
 
-![项目截图](https://raw.githubusercontent.com/shaoshanhuan/kl_jxc/master/_docs/video_2019-09-16_164641%5B00_00_06--00_00_26%5D.gif)
-
-![项目截图](https://raw.githubusercontent.com/shaoshanhuan/kl_jxc/master/_docs/video_2019-09-16_164641%5B00_00_06--00_00_26%5D.gif)
-
 我的联系方式：
 手机：18311293626
 微信：18311293626
